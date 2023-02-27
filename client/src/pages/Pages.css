@@ -1,0 +1,30 @@
+* {
+  box-sizing: border-box;
+}
+.image-list {
+  margin: auto;
+  grid-template-columns: auto !important;
+}
+
+.image {
+  width: 25%;
+}
+
+.main-box {
+  margin: auto !important;
+}
+
+.home {
+  margin: auto;
+  text-align: center;
+  margin-top: 30%;
+}
+
+body {
+  height: 100vh;
+}
+
+.imgData {
+  display: 'block';
+  background-color: #ece6e6 !important;
+}
