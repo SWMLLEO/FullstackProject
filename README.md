@@ -1,2 +1,2 @@
-# ACFullstackProject
+# FullstackProject
 This is test project
